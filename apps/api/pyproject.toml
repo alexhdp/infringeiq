@@ -1,0 +1,4 @@
+[project]
+name = "infringeiq-api"
+version = "0.0.1"
+dependencies = ["fastapi", "uvicorn[standard]", "pydantic", "pytest"]
